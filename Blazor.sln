@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30320.27
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blazor WebAssembly", "Blazor WebAssembly\Blazor WebAssembly.csproj", "{C7E0AF17-823E-4296-940D-B04B380B6010}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorWebAssembly", "Blazor WebAssembly\BlazorWebAssembly.csproj", "{C7E0AF17-823E-4296-940D-B04B380B6010}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
